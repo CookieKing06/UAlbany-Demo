@@ -13,7 +13,7 @@ Uses a single AND gate
 
 ## How to test
 
-Change inputs A and B so that the output ("A AND B") is changed
+Loop through all continuous inputs of 2 bits
 
 ## External hardware
 
