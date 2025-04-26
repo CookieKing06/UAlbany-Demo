@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses a single AND gate
 
 ## How to test
 
-Explain how to use your project
+Change inputs A and B so that the output ("A AND B") is changed
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+1 LED
